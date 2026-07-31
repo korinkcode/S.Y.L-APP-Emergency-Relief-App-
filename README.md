@@ -6,7 +6,7 @@
 
 ## Features
 
-### 🚨 SOS Emergency
+###  SOS Emergency
 
 The application includes an **SOS** feature that allows users to quickly access emergency-related services and assistance.
 
@@ -20,7 +20,7 @@ The interactive map provides users with real-time navigation by displaying:
 * Road obstacles and blocked areas.
 * The shortest route to the selected shelter, either **on foot** or **by vehicle**.
 
-### 🩹 First Aid Guide
+###  First Aid Guide
 
 The application also includes a **First Aid** section containing essential first aid procedures. Each topic provides:
 
@@ -28,7 +28,7 @@ The application also includes a **First Aid** section containing essential first
 * Step-by-step instructions.
 * Clear descriptions explaining how each first aid technique should be performed correctly.
 
-## 🎨 Figma Prototype
+##  Figma Prototype
 
 **Interactive Prototype:**
 https://www.figma.com/proto/SPJwSQ6ORfIXmQUn6ApqPa/S.Y.L-APP?node-id=1-2&p=f&t=LGkRZolHrlNhBa48-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2
